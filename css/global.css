@@ -7,6 +7,7 @@ body {
   font-family: 'Fira Sans';
   color: #141414;
   scroll-behavior: smooth;
+  background-color: #cccccc;
 }
 
 h1,h2,h3,p{
